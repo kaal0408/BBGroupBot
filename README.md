@@ -16,7 +16,7 @@ Done bot was successfully imported, for conformation check command section.
 
 Link : https://github.com/kaal0408/BBGroupBot
 
-## Coder Ajinkya :
+## Coder Manjeet :
 
 ![](https://www.linkpicture.com/q/IMG_20230222_215854_340.jpg)
 
