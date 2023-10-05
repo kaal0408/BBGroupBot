@@ -14,10 +14,10 @@ A simple group controler bot made up in Bots.Business app
 
 Done bot was successfully imported, for conformation check command section.
 
-Link : https://github.com/AjinkyaBots/BBGroupControlerBot
+Link : https://github.com/kaal0408/BBGroupBot
 
 ## Coder Ajinkya :
 
 ![](https://www.linkpicture.com/q/IMG_20230222_215854_340.jpg)
 
-Contact :- [@coderajinkya](https://t.me/coderajinkya)
+Contact :- [Hayat_Murat_30](https://t.me/Hayat_Murat_30)
