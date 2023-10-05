@@ -1,5 +1,5 @@
 /*CMD
-  command: pin
+  command: Pin
   help: 
   need_reply: 
   auto_retry_time: 
